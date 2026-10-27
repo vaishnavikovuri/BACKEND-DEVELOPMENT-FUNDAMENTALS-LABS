@@ -35,7 +35,7 @@ lab-01/
     ├── home.png
     ├── about.png
     ├── time.png
-    └── not-found.png
+    └── 404.png
 ```
 
 ## Installation and Setup
