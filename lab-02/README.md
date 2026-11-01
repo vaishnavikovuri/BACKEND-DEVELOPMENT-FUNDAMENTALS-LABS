@@ -318,22 +318,22 @@ npm test
 Add your Postman or browser screenshots to the `screenshots/` directory using the corresponding filenames:
 
 ### 1. GET /books/ (Retrieve All Books)
-![GET All Books](screenshots/get-all-books.png)
+![GET All Books](screenshots/get-all-books.jpeg)
 
 ### 2. GET /books/:bookId/ (Retrieve Single Book)
-![GET Single Book](screenshots/get-single-book.png)
+![GET Single Book](screenshots/get-single-book.jpeg)
 
 ### 3. POST /books/ (Add New Book)
-![POST Add Book](screenshots/post-add-book.png)
+![POST Add Book](screenshots/post-add-book.jpeg)
 
 ### 4. PUT /books/:bookId/ (Update Book)
-![PUT Update Book](screenshots/put-update-book.png)
+![PUT Update Book](screenshots/put-update-book.jpeg)
 
 ### 5. DELETE /books/:bookId/ (Delete Book)
-![DELETE Book](screenshots/delete-book.png)
+![DELETE Book](screenshots/delete-book.jpeg)
 
 ### 6. Unknown Path / 404 Handling
-![404 Error Handling](screenshots/not-found.png)
+![404 Error Handling](screenshots/not-found.jpeg)
 
 ---
 
