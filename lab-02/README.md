@@ -12,7 +12,7 @@
 
 ## Live Demo & Deployment Note
 
-**Live URL:** 
+**Live URL:** https://backend-dev-labs-2.onrender.com
 
 > **Deployment Consideration:** SQLite is an in-process, disk-based database engine that stores data directly in a local file (`database/books.db`). Standard free-tier serverless or container platforms (such as Render Free Tier or Vercel) employ ephemeral filesystems where disk changes are discarded across restarts. If deploying to cloud environments, mount a persistent disk volume to ensure database mutations persist, or verify full functionality locally / via Postman with the screenshots documented below.
 
