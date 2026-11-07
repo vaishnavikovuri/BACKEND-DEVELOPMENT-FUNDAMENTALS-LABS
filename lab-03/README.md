@@ -13,7 +13,7 @@
 **Platform:** Render
 
 **Live API URL:** 
-https://backend-development-fundamentals-1-e17z.onrender.com/
+https://backend-dev-labs-1.onrender.com/
 
 The Book Management REST API is deployed and publicly accessible through Render.
 
@@ -92,13 +92,13 @@ lab-03/
 ### Step 1: Clone the repository
 
 ```bash
-git clone https://github.com/abhilash-nasam/backend-development-fundamentals_labs.git
+git clone https://github.com/vaishnavikovuri/BACKEND-DEVELOPMENT-FUNDAMENTALS-LABS.git
 ```
 
 ### Step 2: Navigate to Lab 3
 
 ```bash
-cd BACKEND-DEVELOPMENT-LABS/lab-03
+cd BACKEND-DEVELOPMENT-FUNDAMENTALAS-LABS/lab-03
 ```
 
 ### Step 3: Install dependencies
@@ -209,10 +209,10 @@ The following fields are required:
 
 ```json
 {
-  "title": "Introduction to java",
-  "author": "Abhilash",
-  "price": 400,
-  "pages": 390
+  "title": "Atomic Habits",
+  "author": "James Clear",
+  "price": 500,
+  "pages": 320
 }
 ```
 
@@ -271,7 +271,7 @@ The deployed API is tested using Postman Web.
 **Base URL:**
 
 ```text
-https://backend-development-fundamentals-1-e17z.onrender.com/
+https://backend-dev-labs-1.onrender.com/
 ```
 
 ### Test Cases
